@@ -1,0 +1,11 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/connection-details/route.js")
+R.c("server/chunks/[root-of-the-server]__337db52f._.js")
+R.c("server/chunks/a695b_next_63db636e._.js")
+R.c("server/chunks/04505_@bufbuild_protobuf_dist_esm_7bc73cf4._.js")
+R.c("server/chunks/85e87_@livekit_protocol_dist_index_mjs_edbef0d9._.js")
+R.c("server/chunks/fd38a_jose_dist_node_esm_5a127a72._.js")
+R.c("server/chunks/f24c6_livekit-server-sdk_dist_b54c3f36._.js")
+R.c("server/chunks/[root-of-the-server]__13dd9287._.js")
+R.m("[project]/OneDrive/Desktop/Teach The Tutor Active Recall Coach/frontend/.next-internal/server/app/api/connection-details/route/actions.js [app-rsc] (server actions loader, ecmascript)")
+R.m("[project]/OneDrive/Desktop/Teach The Tutor Active Recall Coach/frontend/node_modules/.pnpm/next@15.5.2_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OneDrive/Desktop/Teach The Tutor Active Recall Coach/frontend/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/OneDrive/Desktop/Teach The Tutor Active Recall Coach/frontend/node_modules/.pnpm/next@15.5.2_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/OneDrive/Desktop/Teach The Tutor Active Recall Coach/frontend/app/api/connection-details/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
